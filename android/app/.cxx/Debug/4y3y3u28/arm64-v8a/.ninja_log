@@ -1,0 +1,7 @@
+# ninja log v5
+0	36	1670470476	CMakeFiles/native_add.dir/home/mvasion/Документы/work/flutter/native_add_2/android/c_src/src/main.c.o	99defd8253415fc3
+36	57	1670470476	/home/mvasion/Документы/work/flutter/native_add_2/build/app/intermediates/cxx/Debug/4y3y3u28/obj/arm64-v8a/libnative_add.so	bd3e9487ae102577
+0	43	1670480898	CMakeFiles/native_add.dir/home/mvasion/Документы/work/projects/C/flutter_map_c/src/main.c.o	187c54946f954663
+43	58	1670480898	/home/mvasion/Документы/work/flutter/native_add_2/build/app/intermediates/cxx/Debug/4y3y3u28/obj/arm64-v8a/libnative_add.so	a2caa9eb5a638cbe
+0	62	1670481395	CMakeFiles/native_add.dir/home/mvasion/Документы/work/projects/C/flutter_map_c/src/main.c.o	187c54946f954663
+62	75	1670481395	/home/mvasion/Документы/work/flutter/native_add_2/build/app/intermediates/cxx/Debug/4y3y3u28/obj/arm64-v8a/libnative_add.so	a2caa9eb5a638cbe

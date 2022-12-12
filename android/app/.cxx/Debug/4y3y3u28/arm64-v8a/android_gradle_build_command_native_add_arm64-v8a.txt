@@ -1,0 +1,7 @@
+Executable : /home/mvasion/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/mvasion/Документы/work/flutter/native_add_2/android/app/.cxx/Debug/4y3y3u28/arm64-v8a
+native_add
+jvmArgs : 
+

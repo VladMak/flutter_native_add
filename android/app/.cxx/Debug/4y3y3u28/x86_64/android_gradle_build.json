@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/mvasion/Документы/work/flutter/native_add_2/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/mvasion/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/mvasion/Документы/work/flutter/native_add_2/android/app/.cxx/Debug/4y3y3u28/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/mvasion/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/mvasion/Документы/work/flutter/native_add_2/android/app/.cxx/Debug/4y3y3u28/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native_add::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "native_add",
+      "output": "/home/mvasion/Документы/work/flutter/native_add_2/build/app/intermediates/cxx/Debug/4y3y3u28/obj/x86_64/libnative_add.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/mvasion/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/mvasion/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

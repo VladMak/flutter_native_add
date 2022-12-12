@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/mvasion/Документы/work/flutter/native_add_2/android/app/.cxx/Debug/4y3y3u28/x86_64'
+[1/2] Building C object 'CMakeFiles/native_add.dir/home/mvasion/Документы/work/projects/C/flutter_map_c/src/main.c.o'
+[2/2] Linking C shared library /home/mvasion/Документы/work/flutter/native_add_2/build/app/intermediates/cxx/Debug/4y3y3u28/obj/x86_64/libnative_add.so
